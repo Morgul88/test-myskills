@@ -27,6 +27,7 @@ function App() {
         <ButtonComponent />
         <ButtonComponent />
         <ButtonComponent />
+        <Character />
         
       </div>
     </div>
