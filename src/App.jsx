@@ -20,15 +20,8 @@ function App() {
 
       </div>
       <div className="right">
+      <ButtonComponent />
         <Character />
-        <ButtonComponent />
-        <ButtonComponent />
-        <ButtonComponent />
-        <ButtonComponent />
-        <ButtonComponent />
-        <ButtonComponent />
-        <Character />
-        
       </div>
     </div>
    
